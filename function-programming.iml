@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/function-programming/target/classes" />
+    <output-test url="file://$MODULE_DIR$/function-programming/target/test-classes" />
+    <content url="file://$MODULE_DIR$/function-programming">
+      <sourceFolder url="file://$MODULE_DIR$/function-programming/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/function-programming/src/test" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/function-programming/target" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="f5aa67a3-090b-44c8-8c73-5e70ae08a9a0" />
+  </component>
+</module>

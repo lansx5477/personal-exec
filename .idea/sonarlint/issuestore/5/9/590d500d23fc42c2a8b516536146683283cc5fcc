@@ -1,0 +1,13 @@
+
+7
+java:S1220""Move this file to a named package.8‡Î§­1
+n
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¹®Ùœÿÿÿÿÿ8›Î§­1
+V
+java:S1854""9Remove this useless assignment to local variable "found".(·”íŒ8Î§­1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(é•½º8ŸÎ§­1
+L
+java:S1481"*Remove this unused "found" local variable.(Íªäúÿÿÿÿ8¡Î§­1
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(µ—äÍøÿÿÿÿ8†ú©­1
+]	java:S125#"<This block of commented-out lines of code should be removed.(Ú¬Úşÿÿÿÿ8Ùø­­1

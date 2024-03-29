@@ -1,2 +1,3 @@
 # for git practice
-name=val
+name=val# test line
+\n test

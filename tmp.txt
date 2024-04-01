@@ -1,4 +1,6 @@
 test amend
 another test line
 tmp1
+another change
+fix a bug that user can't login
 test new branch for commit

@@ -1,3 +1,2 @@
 test amend
 another test line
-tmp1
